@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import disnake
 from disnake.ext import commands
 
